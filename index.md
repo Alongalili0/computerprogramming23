@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Alon's Galili Portfolio
 
 You can use the [editor on GitHub](https://github.com/Alongalili0/computerprogramming23/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
