@@ -1,37 +1,29 @@
 ## Welcome to Alon's Galili Portfolio
 
-You can use the [editor on GitHub](https://github.com/Alongalili0/computerprogramming23/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a student at skyline High school finished taking computer programming 1 and advanced computer programming. I am learning python and have passed the certification exam for basic computer programming as python and java. [Alon]
+(mailto:alon.galili77@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## processing projects
 
-### Markdown
+### spaceGame
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+an OOP Spacer shooter game made in processing winter 2020
+![Spacegame]
 
-# Header 1
-## Header 2
-### Header 3
+### calculator
+an advanced calculator
 
-- Bulleted
-- List
+### computer timeline
 
-1. Numbered
-2. List
+### etch a sketch
 
-**Bold** and _Italic_ and `Code` text
+### group project
+a online shooter game that runs on a server. 
 
-[Link](url) and ![Image](src)
-```
+Repository: [here](https://github.com/asuradev99/CP2-Group-project)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### individual project
+A home screen with advanced animations
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alongalili0/computerprogramming23/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+repository: [here](https://github.com/Alongalili0/AlonIndividualProject)
